@@ -1,0 +1,19 @@
+{
+  "name": "rd-config",
+  "version": "0.0.1",
+  "description": "raiden online config file",
+  "main": "config/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raiden-group/rd-config.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raiden-group/rd-config/issues"
+  },
+  "homepage": "https://github.com/raiden-group/rd-config#readme"
+}
